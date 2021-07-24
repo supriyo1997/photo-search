@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    
+}
+
+.box{
+    width:100vw;
+    height: 100vh;
+
+    display:flex;
+    justify-content: center;
+    align-items: center;
+   
+
+
+}
+.inputdata{
+    width:30vw;
+    height:60vh;
+    background:#8EE0BA;
+    display:flex;
+    justify-content: center;
+    
+}
+
+
+.input-field{
+    margin-top: 20px;
+    border-radius: 20px;
+    height:30px;
+   
+}
+.info{
+    text-align: center;
+}
